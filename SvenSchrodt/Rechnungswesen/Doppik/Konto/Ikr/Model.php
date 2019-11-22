@@ -10,6 +10,9 @@
  * the naming convention of classes, methods and variables/attributes etc. will use
  * German terms and abbreviations whenever it seems to be useful
  *
+ * @TODO Validate account numbers!
+ * @TODO Add commenting
+ * 
  * @link https://github.com/svenschrodt/Rechnungswesen
  * @author Sven Schrodt<sven@schrodt-service.net>
  * @package SvenSchrodt\Rechnungswesen
@@ -25,6 +28,7 @@ final class Model
 
     /**
      * Array containing account information (account no and label)
+     * 
      * 
      * @var array
      */

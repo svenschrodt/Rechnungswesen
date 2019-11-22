@@ -1,11 +1,7 @@
 <?php
 /**
- * SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model
- * 
- * 
- * Model chart of accounts of German IKR ("Industriekontenrahmen")
- * 
- * 
+ * Bootstrapping for PHPUnit
+
  * Hint: due to the fact, that this project is addressing German accounting schema,
  * the naming convention of classes, methods and variables/attributes etc. will use
  * German terms and abbreviations whenever it seems to be useful
@@ -18,16 +14,17 @@
  * @version 0.0.1
  * @since 2019-11-21
  */
-namespace SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr;
 
-use PHPUnit\Framework\TestCase;
+/**
+ * TODO Writing PSR* compliant and SPL using auto loader with
+ * namespaces, sauce and hot
+ */
 
-class ModelTest extends TestCase
-{
+// chdir(dirname(__DIR__));
+spl_autoload_register(function ($className) {
+    $parts = explode('\\', $className);
+    // @TODO Check for valid path
 
- public function testAccountName()
- {
-     
- }
-}
+    require_once str_replace('\\', '/', $className) . '.php';
+});
 

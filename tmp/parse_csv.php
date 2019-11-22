@@ -14,7 +14,8 @@ foreach ($data as $item) {
     
     $tmp = explode(';', trim($item));
     if(strlen($tmp[1])==4) {
-        echo "'{$tmp[1]}' => '{$tmp[2]}',\n";
+        $foo = ucfirst($tmp[2]);
+        echo "'{$tmp[1]}' => '{$foo}',\n";
         
     }
 }
