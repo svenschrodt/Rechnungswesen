@@ -1,0 +1,472 @@
+SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr
+
+
+Industriekontenrahmen
+
+
+Industriekontenrahmen
+Stand: 1987, letzte Aktualisierung seitens des BDI
+
+Bilanz
+Aktiva
+   0 Immaterielle Vermögensgegenstände und Sachanlagen
+      00 Ausstehende Einlagen
+         0000 Ausstehende Einlagen
+      01 Frei
+   Immaterielle Vermögensgegenstände
+      02 Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an
+      solchen Rechten und Werten
+         0200 Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie
+         Lizenzen an solchen Rechten und Werten
+      03 Geschäfts- oder Firmenwert
+         0300 Geschäfts- oder Firmenwert
+      04 Frei
+   Sachanlagen
+      05 Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden
+      Grundstücken
+         0500 Unbebaute Grundstücke
+         0510 Bebaute Grundstücke
+         0520 Gebäude
+         0530 Betriebsgebäude
+         0540 Verwaltungsgebäude
+         0550 Andere Bauten
+         0560 Grundstückseinrichtungen
+         0570 Gebäudeeinrichtungen
+         0590 Wohngebäude
+      06 Frei
+      07 Technische Anlagen und Maschinen
+         0700 Anlagen und Maschinen der Energieversorgung
+         0710 Anlagen der Materiallagerung und -bereitstellung
+         0720 Fertigungsmaschinen der mechanischen Materialbearbeitung, -verarbeitung und
+         -umwandlung
+         0730 Fertigungsmaschinen und -anlagen für Wärme-, Kälte- und chemische Prozesse sowie
+         ähnliche Anlagen
+         0740 Anlagen für Arbeitssicherheit und Umweltschutz
+         0750 Transportanlagen
+         0760 Verpackungsanlagen
+         0770 sonstige Anlagen und Maschinen
+         0780 Reservemaschinen und -anlagenteile
+         0790 Geringwertige Anlagen und Maschinen
+         0791 GWG Sammelposten Anlagen und Maschinen
+      08 Andere Anlagen, Betriebs- und Geschäftsausstattung
+         0800 andere Anlagen
+         0810 Werkstätteneinrichtung
+         0820 Werkzeuge, Werksgeräte und Modelle, Prüf- und Messmittel
+         0830 Lager- und Transporteinrichtungen
+         0840 Fuhrpark
+         0850 Sonstige Betriebsausstattung
+         0860 Büromaschinen, Organisationsmittel und Kommunikationsanlagen
+         0870 Büromöbel und sonstige Geschäftsausstattung
+         0880 Reserveteile für Betriebs- und Geschäftsausstattung
+         0890 Sammelposten geringwertige Wirtschaftsgüter
+         0891 Geringwertige Wirtschaftsgüter
+      09 Geleistete Anzahlungen und Anlagen im Bau
+         0900 Geleistete Anzahlungen auf Sachanlagen
+
+www.waldlandwelt.de
+                                                                                          1 von 8
+Industriekontenrahmen
+
+
+           0950 Anlagen im Bau
+     1 Finanzanlagen
+        10 bis 12 Frei
+        13 Beteiligungen
+           1300 Beteiligungen
+        14 Frei
+        15 Wertpapiere des Anlagevermögens
+           1500 Wertpapiere des Anlagevermögens
+        16 Sonstige Finanzanlagen
+           1600 Sonstige Finanzanlagen
+        17 bis 19 Frei
+     2 Umlaufvermögen und aktive Rechnungsabgrenzung
+     Vorräte
+        20 Roh-, Hilfs- und Betriebsstoffe
+           2000 Rohstoffe / Fertigungsmaterial
+           2010 Vorprodukte/ Fremdbauteile
+           2020 Hilfsstoffe
+           2030 Betriebsstoffe
+           2070 Sonstiges Material
+        21 Unfertige Erzeugnisse, unfertige Leistungen
+           2100 Unfertige Erzeugnisse
+           2190 Unfertige Leistungen
+        22 Fertige Erzeugnisse und Waren
+           2200 Fertige Erzeugnisse
+           2280 Waren/ Handelswaren
+        23 Geleistete Anzahlungen auf Vorräte
+           2300 Geleistete Anzahlungen auf Vorräte
+     Forderungen und sonstige Vermögensgegenstände
+        24 Forderungen aus
+           2400 Forderungen aus Lieferungen und Leistungen
+           2420 Kaufpreisforderungen
+           2421 Umsatzsteuerforderungen
+           2450 Wechselforderungen aus Lieferungen und Leistungen (Besitzwechsel)
+           2470 zweifelhafte Forderungen
+           2480 Protestwechsel
+        25 Innergemeinschaftlicher Erwerb/ Einfuhr
+           2500 Innergemeinschaftlicher Erwerb
+           2510 Gütereinfuhr
+        26 Sonstige Vermögensgegenstände
+           2600 Vorsteuer
+           2630 Sonstige Forderungen gegenüber Finanzbehörden
+           2640 SV-Vorauszahlungen
+           2650 Forderungen an Mitarbeiter
+           2690 Übrige sonstige Forderungen
+        27 Wertpapiere des Umlaufvermögens
+           2700 Wertpapiere des Umlaufvermögens
+        28 Flüssige Mittel
+           2800 Guthaben bei Kreditinstituten (Bank)
+           2850 Postbank
+           2860 Schecks
+           2870 Bundesbank
+           2880 Kasse
+           2890 Nebenkassen
+        29 Aktive Rechnungsabgrenzung (und Bilanzfehlbetrag)
+           2900 Aktive Rechnungsabgrenzung
+           2910 Disagio
+           2920 Umsatzsteuer auf erhaltene Anzahlungen
+           2990 nicht durch Eigenkapital gedeckter Fehlbetrag
+
+www.waldlandwelt.de
+                                                                                    2 von 8
+Industriekontenrahmen
+
+
+Passiva
+   3 Eigenkapital und Rückstellungen
+   Eigenkapital
+      30 Eigenkapital / Gezeichnetes Kapital
+      bei Einzelkaufleuten
+          3000 Eigenkapital
+             3001 Privatkonto
+      bei Personengesellschaften
+          3000 Kapital Gesellschafter A
+             3001 Privatkonto A
+          3010 Kapital Gesellschafter B
+             3011 Privatkonto B
+          3070 Kommanditkapital Gesellschafter C
+          3080 Kommanditkapital Gesellschafter D
+      bei Kapitalgesellschaften
+          3000 Gezeichnetes Kapital (Grundkapital/Stammkapital)
+      31 Kapitalrücklage
+          3100 Kapitalrücklage
+      32 Gewinnrücklagen
+          3210 Gesetzliche Rücklage
+          3230 Satzungsmäßige Rücklagen
+          3240 Andere Gewinnrücklagen
+      33 Ergebnisverwendung
+          3310 Jahresergebnis des Vorjahres
+          3320 Ergebnisvortrag aus früheren Perioden
+          3340 Veränderung der Rücklagen
+          3350 Bilanzgewinn/Bilanzverlust
+          3360 Ergebnisausschüttung
+          3390 Ergebnisvortrag auf neue Rechnung
+      34 Jahresüberschuss/Jahresfehlbetrag
+          3400 Jahresüberschuss/ Jahresfehlbetrag
+      35 Sonderposten mit Rücklageanteil
+          3500 Sonderposten mit Rücklageanteil
+      36 Wertberichtigungen
+          3610 - zu Sachanlagen
+          3650 - zu Finanzanlagen
+          3670 Einzelwertberichtigung zu Forderungen
+          3680 Pauschalwertberichtigung zu Forderungen
+   Rückstellungen
+      37 Rückstellungen für Pensionen und ähnliche Verpflichtungen
+          3700 Rückstellungen für Pensionen und ähnliche Verpflichtungen
+      38 Steuerrückstellungen
+          3800 Steuerrückstellungen
+      39 Sonstige Rückstellungen
+          3910 - für Gewährleistung
+          3930 - für andere ungewisse Verbindlichkeiten
+          3970 - für drohende Verluste aus schwebenden Geschäften
+          3990 - für Aufwendungen
+   4 Verbindlichkeiten und passive Rechnungsabgrenzung
+      40 Frei
+      41 Anleihen
+          4100 Anleihen
+      42 Verbindlichkeiten gegenüber Kreditinstituten
+          4200 Kurzfristige Bankverbindlichkeiten
+          4230 Mittelfristige Bankverbindlichkeiten
+          4250 Langfristige Bankverbindlichkeiten
+      43 Erhaltene Anzahlungen auf Bestellungen
+          4300 Erhaltene Anzahlungen auf Bestellungen
+
+www.waldlandwelt.de
+                                                                           3 von 8
+Industriekontenrahmen
+
+
+          44 Verbindlichkeiten aus Lieferungen und Leistungen
+             4400 Verbindlichkeiten aus Lieferungen und Leistungen
+             4420 Kaufpreisverbindlichkeiten
+          45 Wechselverbindlichkeiten
+             4500 Schuldwechsel
+          46 und 47 Frei
+          48 Sonstige Verbindlichkeiten
+             4800 Umsatzsteuer
+                4802 Umsatzsteuer für innergemeinschaftlichen Erwerb
+             4820 Zollverbindlichkeiten
+             4830 Sonstige Verbindlichkeiten gegenüber dem Finanzamt
+             4840 Verbindlichkeiten gegenüber Sozialversicherungsträgern
+             4850 Verbindlichkeiten gegenüber Mitarbeitern
+             4860 Verbindlichkeiten aus vermögenswirksamen Leistungen
+             4870 Verbindlichkeiten gegenüber Gesellschaftern (Dividende)
+             4890 Übrige sonstige Verbindlichkeiten
+          49 Passive Rechnungsabgrenzung
+             4900 Passive Rechnungsabgrenzung
+             4920 Vorsteuer auf geleistete Anzahlungen
+
+Gewinn- und Verlustrechnung
+  5 Erträge
+  Erträge
+     50 Umsatzerlöse für eigene Erzeugnisse und andere eigene Leistungen
+         5000 Umsatzerlöse für eigene Erzeugnisse
+            5001 Erlösberichtigungen
+         5050 Umsatzerlöse für andere eigene Leistungen
+            5051 Erlösberichtigungen
+         5060 Umsatzerlöse aus innergemeinschaftlicher Lieferung
+            5061 Erlösberichtigungen
+         5070 Umsatzerlöse aus Güterausfuhr
+            5071 Erlösberichtigungen
+     51 Sonstige Umsatzerlöse
+         5100 Umsatzerlöse für Waren
+            5101 Erlösberichtigungen
+         5190 Sonstige Umsatzerlöse
+            5191 Erlösberichtigungen
+     52 Erhöhung oder Verminderung des Bestandes an unfertigen und fertigen Erzeugnissen
+         5200 Bestandsveränderungen
+            5201 Bestandsveränderungen an unfertigen Erzeugnissen und nicht abgerechneten
+            Leistungen
+            5202 Bestandsveränderungen an fertigen Erzeugnissen
+     53 Andere aktivierte Eigenleistungen
+         5300 Aktivierte Eigenleistungen
+     54 Sonstige betriebliche Erträge
+         5400 Mieterträge
+         5401 Nebenerlöse aus Vermietung und Verpachtung
+         5410 Sonstige Erlöse (z. B. aus Provisionen oder Lizenzen oder aus dem Abgang von
+         Gegenständen des Anlagevermögens)
+         5420 Eigenverbrauch
+         5430 Andere sonstige betriebliche Erträge (z. B. Schadenersatzleistungen)
+         5440 Erträge aus Werterhöhungen von Gegenständen des Anlagevermögens
+         (Zuschreibungen)
+         5441 Erträge aus Zuschreibungen zum Umlaufvermögen
+         5450 Erträge aus der Auflösung oder Herabsetzung von Wertberichtigungen auf
+         Forderungen
+         5460 Erträge aus dem Abgang von Vermögensgegenständen
+         5480 Erträge aus der Herabsetzung von Rückstellungen
+
+www.waldlandwelt.de
+                                                                                         4 von 8
+Industriekontenrahmen
+
+
+            5490 periodenfremde Erträge
+            5495 Zahlungseingänge aus abgeschriebenen Forderungen
+        55 Erträge aus Beteiligungen
+            5500 Erträge aus Beteiligungen
+        56 Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens
+            5600 Erträge aus anderen Finanzanlagen
+        57 Zinsen und ähnliche Erträge
+            5710 Zinserträge und Dividenden
+            5730 Diskonterträge
+            5780 Erträge aus Wertpapieren des Umlaufvermögens
+            5790 Sonstige zinsähnliche Erträge
+        58 Außerordentliche Erträge
+            5800 Außerordentliche Erträge
+        59 Frei
+     6 Betriebliche Aufwendungen
+     Materialaufwand
+        60 Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren
+            6000 Aufwendungen für Rohstoffe/ Fertigungsmaterial
+               6001 Bezugskosten
+               6002 Nachlässe
+            6010 Aufwendungen für Vorprodukte/ Fremdbauteile
+               6011 Bezugskosten
+               6012 Nachlässe
+            6020 Aufwendungen für Hilfsstoffe
+               6021 Bezugskosten
+               6022 Nachlässe
+            6030 Betriebsstoffe / Verbrauchswerkzeuge
+               6031 Bezugskosten
+               6032 Nachlässe
+            6040 Aufwendungen für Verpackungsmaterial
+            6050 Aufwendungen für Energie und Treibstoffe
+            6060 Aufwendungen für Reparaturmaterial
+            6070 Aufwendungen für sonstiges Material
+            6080 Aufwendungen für Waren
+        61 Aufwendungen für bezogene Leistungen
+            6100 Fremdleistungen für Erzeugnisse und andere Umsatzleistungen
+            6140 Ausgangsfrachten und Fremdlager (inkl. Versicherung und anderer Nebenkosten)
+            6150 Vertriebsprovisionen
+            6160 Fremdinstandhaltung
+            6170 Sonstige Aufwendungen für bezogene Leistungen
+     Personalaufwand
+        62 Löhne
+            6200 Löhne für geleistete Arbeitszeit einschließlich tariflicher, vertraglicher oder
+            arbeitsbedingter Zulagen
+            6210 Löhne für andere Zeiten (Urlaub, Feiertag, Krankheit, Urlaubs- und Weihnachtsgeld)
+            6220 Sonstige tarifliche oder vertragliche Aufwendungen für Lohnempfänger
+            6230 Freiwillige Zuwendungen
+            6250 Sachbezüge
+            6260 Vergütungen an gewerbliche Auszubildende
+        63 Gehälter
+            6300 Gehälter einschließlich tariflicher, vertraglicher oder arbeitsbedingter Zulagen
+            6310 Gehälter für andere Zeiten (Urlaub, Feiertag, Krankheit, Urlaubs- und Weihnachtsgeld)
+            6320 Sonstige tarifliche und vertragliche Aufwendungen
+            6330 Freiwillige Zuwendungen
+            6350 Sachbezüge
+            6360 Vergütungen an gewerbliche Auszubildende
+        64 Soziale Abgaben und Aufwendungen für Altersversorgung
+            6400 Arbeitgeberanteil zur Sozialversicherung (Lohnbereich)
+
+www.waldlandwelt.de
+                                                                                               5 von 8
+Industriekontenrahmen
+
+
+            6410 Arbeitgeberanteil zur Sozialversicherung (Gehaltsbereich)
+            6420 Beiträge zur Berufsgenossenschaft
+            6440 Aufwendungen für Altersversorgung
+            6490 Aufwendungen für Unterstützung
+            6495 Sonstige soziale Aufwendungen
+        65 Abschreibungen auf Anlagevermögen
+            6510 Abschreibung auf immaterielle Vermögensgegenstände des Anlagevermögens
+            6520 Abschreibungen auf Sachanlagen
+            6540 Abschreibung auf Sammelposten geringwertige Wirtschaftsgüter
+            6541 Abschreibung auf geringwertige Wirtschaftsgüter
+            6550 Außerplanmäßige Abschreibungen auf Sachanlagen
+            6570 Unüblich hohe Abschreibungen auf Umlaufvermögen
+     Sonstige betriebliche Aufwendungen
+        66 Sonstige Personalaufwendungen
+            6600 Aufwendungen für Personaleinstellung
+            6610 Aufwendungen für übernommene Fahrtkosten
+            6620 Aufwendungen für Werksarzt und Arbeitssicherheit
+            6630 Personenbezogene Versicherungen
+            6640 Aufwendungen für Fort- und Weiterbildung
+            6650 Aufwendungen für Dienstjubiläen
+            6660 Aufwendungen für Belegschaftsveranstaltungen
+            6670 Aufwendungen für Werksküche und Sozialeinrichtungen
+            6680 Ausgleichsabgabe nach dem Schwerbehindertengesetz
+            6690 Übrige sonstige Personalaufwendungen
+        67 Aufwendungen für die Inanspruchnahme von Rechten und Diensten
+            6700 Mieten, Pachten
+            6710 Leasing
+            6720 Lizenzen und Konzessionen
+            6730 Gebühren
+            6750 Kosten des Geldverkehrs
+            6760 Provisionsaufwendungen (außer Vertriebsprovisionen)
+            6770 Rechts- und Beratungskosten
+        68 Aufwendungen für Kommunikation (Dokumentation, Information, Reisen, Werbung)
+            6800 Büromaterial
+            6810 Zeitungen und Fachliteratur
+            6820 Post- und Kommunikationsgebühren
+            6830 Kosten der Telekommunikation
+            6850 Reisekosten
+            6860 Bewirtung und Repräsentation
+            6870 Werbung
+            6880 Spenden (nur Kapitalgesellschaften)
+        69 Aufwendungen für Beiträge und Sonstiges sowie Wertkorrekturen und periodenfremde
+        Aufwendungen
+            6900 Versicherungsbeiträge
+            6920 Beiträge zu Wirtschaftsverbänden und Berufsvertretungen
+            6930 Verluste aus Schadensfällen
+            6940 Sonstige Aufwendungen
+            6950 Abschreibungen auf Forderungen
+               6951 Abschreibung auf Forderungen wegen Uneinbringlichkeit
+               6952 Einstellung in Einzelwertberichtigungen
+               6953 Einstellung in Pauschalwertberichtigungen
+            6960 Verluste aus dem Abgang von Vermögensgegenständen (einschließlich
+            Kassenfehlbetrag)
+            6979 Anlagenabgänge
+            6980 Zuführung zu Rückstellungen für Gewährleistungen
+            6990 Periodenfremde Aufwendungen
+     7 Betriebliche und weitere Aufwendungen
+        70 Betriebliche Steuern
+
+www.waldlandwelt.de
+                                                                                         6 von 8
+Industriekontenrahmen
+
+
+           7010 Vermögenssteuer (nur bei Kapitalgesellschaften)
+           7020 Grundsteuer
+           7021 Grundsteuer (Vorjahr)
+           7030 Kraftfahrzeugsteuer
+           7031 Kraftfahrzeugsteuer (Vorjahr)
+           7032 Steuerrückerstattung für Kraftfahrzeugsteuer (Vorjahr)
+           7070 Ausfuhrzölle
+           7080 Ausfuhrsteuern
+           7090 Sonstige betriebliche Steuern
+        71 bis 73 Frei
+        74 Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens und
+        Verluste aus entsprechenden Abgängen
+           7400 Abschreibungen auf Finanzanlagen
+           7420 Abschreibungen auf Wertpapiere des Umlaufvermögens
+           7450 Verluste aus dem Abgang von Finanzanlagen
+           7460 Verluste aus dem Abgang von Wertpapieren des Umlaufvermögens
+        75 Zinsen und ähnliche Aufwendungen
+           7510 Zinsaufwendungen
+           7530 Diskontaufwendungen
+           7590 Sonstige zinsähnliche Aufwendungen (z. B. Abschreibung auf aktiviertes Disagio)
+        76 Außerordentliche Aufwendungen
+           7600 Außerordentliche Aufwendungen
+        77 Steuern vom Einkommen und Ertrag
+           7700 Gewerbeertragsteuer
+           7701 Gewerbeertragsteuer (Vorjahr)
+           7702 Steuerrückerstattung für Gewerbeertragsteuer (Vorjahr)
+           7710 Körperschaftsteuer (bei Kapitalgesellschaften)
+           7720 Kapitalertragssteuer (bei Kapitalgesellschaften)
+        78 Diverse Aufwendungen
+           7800 Diverse Aufwendungen
+        79 Frei
+     8 Ergebnisrechnungen
+        80 Eröffnung / Abschluss
+           8000 Eröffnungsbilanzkonto
+           8010 Schlussbilanzkonto
+           8020 GuV-Konto Gesamtkostenverfahren
+           8030 GuV-Konto Umsatzkostenverfahren
+           8050 Saldenvorträge (Sammelkonto)
+
+     Konten der Kostenbereiche für die GuV im Umsatzkostenverfahren
+        81 Herstellungskosten
+        82 Vertriebskosten
+        83 Allgemeine Verwaltungskosten
+        84 Sonstige betriebliche Aufwendungen
+
+     Konten der kurzfristigen Erfolgsrechnung (KER) für innerjährige Rechnungsperioden (Monat, Quartal oder
+     Halbjahr)
+        85 Korrekturkonten zu den Erträgen der Kontenklasse 5
+        86 Korrekturkonten zu den Aufwendungen der Kontenklasse 6
+        87 Korrekturkonten zu den Aufwendungen der Kontenklasse 7
+        88 Kurzfristige Erfolgsrechnung (KER)
+           8800 Gesamtkostenverfahren
+           8810 Umsatzkostenverfahren
+        89 Innerjährige Rechnungsabgrenzung
+           8900 Aktive Rechnungsabgrenzung
+
+
+
+
+www.waldlandwelt.de
+                                                                                                    7 von 8
+Industriekontenrahmen
+
+
+     9 Kosten- und Leistungsrechnung
+        90 Unternehmensbezogene Abgrenzungen (neutrale Aufwendungen und Erträge)
+        91 Kostenrechnerische Korrekturen
+        92 Kostenarten und Leistungsarten
+        93 Kostenstellen
+        94 Kostenträger
+        95 Fertige Erzeugnisse
+        96 Interne Lieferungen und Leistungen sowie deren Kosten
+        97 Umsatzkosten
+        98 Umsatzleistungen
+        99 Ergebnisausweise
+
+
+
+
+www.waldlandwelt.de
+                                                                                   8 von 8
+

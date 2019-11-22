@@ -1,2 +1,8 @@
 # Rechnungswesen
-Abbildung von Elementen des kfm. (insbes. industr.) *deutschen* Rechnungswesens - deshalb an dieser Stelle eine Benamung ausnahmsweise auf deutsch
+
+This project is represeting elements of German Accounting 
+
+Hint: due to the fact, that this project is addressing German accounting schema,
+the naming convention of classes, methods and variables/attributes etc. will use
+German terms and abbreviations whenever it seems to be useful
+

@@ -1,0 +1,390 @@
+1;0;Immaterielle Vermögensgegenstände und Sachanlagen
+2;00;Ausstehende Einlagen
+3;0000;Ausstehende Einlagen
+4;01;n/a
+5;02;Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+6;0200;Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+7;03;Geschäfts- oder Firmenwert
+8;0300;Geschäfts- oder Firmenwert
+9;04;n/a
+10;05;Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken
+11;0500;Unbebaute Grundstücke
+12;0510;Bebaute Grundstücke
+13;0520;Gebäude
+14;0530;Betriebsgebäude
+15;0540;Verwaltungsgebäude
+16;0550;Andere Bauten
+17;0560;Grundstückseinrichtungen
+18;0570;Gebäudeeinrichtungen
+19;0590;Wohngebäude
+20;06;n/a
+21;07;Technische Anlagen und Maschinen
+22;0700;Anlagen und Maschinen der Energieversorgung
+23;0710;Anlagen der Materiallagerung und -bereitstellung
+24;0720;Fertigungsmaschinen der mechanischen Materialbearbeitung, -verarbeitung und -umwandlung
+25;0730;Fertigungsmaschinen und -anlagen für Wärme-, Kälte- und chemische Prozesse sowie ähnliche Anlagen
+26;0740;Anlagen für Arbeitssicherheit und Umweltschutz
+27;0750;Transportanlagen
+28;0760;Verpackungsanlagen
+29;0770;sonstige Anlagen und Maschinen
+30;0780;Reservemaschinen und -anlagenteile
+31;0790;Geringwertige Anlagen und Maschinen
+32;0791;GWG Sammelposten Anlagen und Maschinen
+33;08;Andere Anlagen, Betriebs- und Geschäftsausstattung
+34;0800;andere Anlagen
+35;0810;Werkstätteneinrichtung
+36;0820;Werkzeuge, Werksgeräte und Modelle, Prüf- und Messmittel
+37;0830;Lager- und Transporteinrichtungen
+38;0840;Fuhrpark
+39;0850;Sonstige Betriebsausstattung
+40;0860;Büromaschinen, Organisationsmittel und Kommunikationsanlagen
+41;0870;Büromöbel und sonstige Geschäftsausstattung
+42;0880;Reserveteile für Betriebs- und Geschäftsausstattung
+43;0890;Sammelposten geringwertige Wirtschaftsgüter
+44;0891;Geringwertige Wirtschaftsgüter
+45;09;Geleistete Anzahlungen und Anlagen im Bau
+46;0900;Geleistete Anzahlungen auf Sachanlagen
+47;0950;Anlagen im Bau
+48;1;Finanzanlagen
+49;10;n/a
+50;11;n/a
+51;12;n/a
+52;13;Beteiligungen
+53;1300;Beteiligungen
+54;14;n/a
+55;15;Wertpapiere des Anlagevermögens
+56;1500;Wertpapiere des Anlagevermögens
+57;16;Sonstige Finanzanlagen
+58;1600;Sonstige Finanzanlagen
+59;17;n/a
+60;18;n/a
+61;19;n/a
+62;2;Umlaufvermögen und aktive Rechnungsabgrenzung
+63;20;Roh-, Hilfs- und Betriebsstoffe
+64;2000;Rohstoffe / Fertigungsmaterial
+65;2010;Vorprodukte/ Fremdbauteile
+66;2020;Hilfsstoffe
+67;2030;Betriebsstoffe
+68;2070;Sonstiges Material
+69;21;Unfertige Erzeugnisse, unfertige Leistungen
+70;2100;Unfertige Erzeugnisse
+71;2190;Unfertige Leistungen
+72;22;Fertige Erzeugnisse und Waren
+73;2200;Fertige Erzeugnisse
+74;2280;Waren/ Handelswaren
+75;23;Geleistete Anzahlungen auf Vorräte
+76;2300;Geleistete Anzahlungen auf Vorräte
+77;24;Forderungen aus
+78;2400;Forderungen aus Lieferungen und Leistungen
+79;2420;Kaufpreisforderungen
+80;2421;Umsatzsteuerforderungen
+81;2450;Wechselforderungen aus Lieferungen und Leistungen (Besitzwechsel)
+82;2470;zweifelhafte Forderungen
+83;2480;Protestwechsel
+84;25;Innergemeinschaftlicher Erwerb/ Einfuhr
+85;2500;Innergemeinschaftlicher Erwerb
+86;2510;Gütereinfuhr
+87;26;Sonstige Vermögensgegenstände
+88;2600;Vorsteuer
+89;2630;Sonstige Forderungen gegenüber Finanzbehörden
+90;2640;SV-Vorauszahlungen
+91;2650;Forderungen an Mitarbeiter
+92;2690;Übrige sonstige Forderungen
+93;27;Wertpapiere des Umlaufvermögens
+94;2700;Wertpapiere des Umlaufvermögens
+95;28;Flüssige Mittel
+96;2800;Guthaben bei Kreditinstituten (Bank)
+97;2850;Postbank
+98;2860;Schecks
+99;2870;Bundesbank
+100;2880;Kasse
+101;2890;Nebenkassen
+102;29;Aktive Rechnungsabgrenzung (und Bilanzfehlbetrag)
+103;2900;Aktive Rechnungsabgrenzung
+104;2910;Disagio
+105;2920;Umsatzsteuer auf erhaltene Anzahlungen
+106;2990;nicht durch Eigenkapital gedeckter Fehlbetrag
+107;3;Eigenkapital und Rückstellungen
+108;30;Eigenkapital / Gezeichnetes Kapital
+109;3000;Eigenkapital
+110;3001;Privatkonto
+111;3000;Kapital Gesellschafter A
+112;3001;Privatkonto A
+113;3010;Kapital Gesellschafter B
+114;3011;Privatkonto B
+115;3070;Kommanditkapital Gesellschafter C
+116;3080;Kommanditkapital Gesellschafter D
+117;3000;Gezeichnetes Kapital (Grundkapital/Stammkapital)
+118;31;Kapitalrücklage
+119;3100;Kapitalrücklage
+120;32;Gewinnrücklagen
+121;3210;Gesetzliche Rücklage
+122;3230;Satzungsmäßige Rücklagen
+123;3240;Andere Gewinnrücklagen
+124;33;Ergebnisverwendung
+125;3310;Jahresergebnis des Vorjahres
+126;3320;Ergebnisvortrag aus früheren Perioden
+127;3340;Veränderung der Rücklagen
+128;3350;Bilanzgewinn/Bilanzverlust
+129;3360;Ergebnisausschüttung
+130;3390;Ergebnisvortrag auf neue Rechnung
+131;34;Jahresüberschuss/Jahresfehlbetrag
+132;3400;Jahresüberschuss/ Jahresfehlbetrag
+133;35;Sonderposten mit Rücklageanteil
+134;3500;Sonderposten mit Rücklageanteil
+135;36;Wertberichtigungen
+136;3610;- zu Sachanlagen
+137;3650;- zu Finanzanlagen
+138;3670;Einzelwertberichtigung zu Forderungen
+139;3680;Pauschalwertberichtigung zu Forderungen
+140;37;Rückstellungen für Pensionen und ähnliche Verpflichtungen
+141;3700;Rückstellungen für Pensionen und ähnliche Verpflichtungen
+142;38;Steuerrückstellungen
+143;3800;Steuerrückstellungen
+144;39;Sonstige Rückstellungen
+145;3910;- für Gewährleistung
+146;3930;- für andere ungewisse Verbindlichkeiten
+147;3970;- für drohende Verluste aus schwebenden Geschäften
+148;3990;- für Aufwendungen
+149;4;Verbindlichkeiten und passive Rechnungsabgrenzung
+150;40;n/a
+151;41;Anleihen
+152;4100;Anleihen
+153;42;Verbindlichkeiten gegenüber Kreditinstituten
+154;4200;Kurzfristige Bankverbindlichkeiten
+155;4230;Mittelfristige Bankverbindlichkeiten
+156;4250;Langfristige Bankverbindlichkeiten
+157;43;Erhaltene Anzahlungen auf Bestellungen
+158;4300;Erhaltene Anzahlungen auf Bestellungen
+159;44;Verbindlichkeiten aus Lieferungen und Leistungen
+160;4400;Verbindlichkeiten aus Lieferungen und Leistungen
+161;4420;Kaufpreisverbindlichkeiten
+162;45;Wechselverbindlichkeiten
+163;4500;Schuldwechsel
+164;46;und 47 Frei
+165;48;Sonstige Verbindlichkeiten
+166;4800;Umsatzsteuer
+167;4802;Umsatzsteuer für innergemeinschaftlichen Erwerb
+168;4820;Zollverbindlichkeiten
+169;4830;Sonstige Verbindlichkeiten gegenüber dem Finanzamt
+170;4840;Verbindlichkeiten gegenüber Sozialversicherungsträgern
+171;4850;Verbindlichkeiten gegenüber Mitarbeitern
+172;4860;Verbindlichkeiten aus vermögenswirksamen Leistungen
+173;4870;Verbindlichkeiten gegenüber Gesellschaftern (Dividende)
+174;4890;Übrige sonstige Verbindlichkeiten
+175;49;Passive Rechnungsabgrenzung
+176;4900;Passive Rechnungsabgrenzung
+177;4920;Vorsteuer auf geleistete Anzahlungen
+178;5;Erträge
+179;50;Umsatzerlöse für eigene Erzeugnisse und andere eigene Leistungen
+180;5000;Umsatzerlöse für eigene Erzeugnisse
+181;5001;Erlösberichtigungen
+182;5050;Umsatzerlöse für andere eigene Leistungen
+183;5051;Erlösberichtigungen
+184;5060;Umsatzerlöse aus innergemeinschaftlicher Lieferung
+185;5061;Erlösberichtigungen
+186;5070;Umsatzerlöse aus Güterausfuhr
+187;5071;Erlösberichtigungen
+188;51;Sonstige Umsatzerlöse
+189;5100;Umsatzerlöse für Waren
+190;5101;Erlösberichtigungen
+191;5190;Sonstige Umsatzerlöse
+192;5191;Erlösberichtigungen
+193;52;Erhöhung oder Verminderung des Bestandes an unfertigen und fertigen Erzeugnissen
+194;5200;Bestandsveränderungen
+195;5201;Bestandsveränderungen an unfertigen Erzeugnissen und nicht abgerechneten
+196;Leistungen;
+197;5202;Bestandsveränderungen an fertigen Erzeugnissen
+198;53;Andere aktivierte Eigenleistungen
+199;5300;Aktivierte Eigenleistungen
+200;54;Sonstige betriebliche Erträge
+201;5400;Mieterträge
+202;5401;Nebenerlöse aus Vermietung und Verpachtung
+203;5410;Sonstige Erlöse (z. B. aus Provisionen oder Lizenzen oder aus dem Abgang von
+204;Gegenständen;des Anlagevermögens)
+205;5420;Eigenverbrauch
+206;5430;Andere sonstige betriebliche Erträge (z. B. Schadenersatzleistungen)
+207;5440;Erträge aus Werterhöhungen von Gegenständen des Anlagevermögens
+208;(Zuschreibungen);
+209;5441;Erträge aus Zuschreibungen zum Umlaufvermögen
+210;5450;Erträge aus der Auflösung oder Herabsetzung von Wertberichtigungen auf
+211;Forderungen;
+212;5460;Erträge aus dem Abgang von Vermögensgegenständen
+213;5480;Erträge aus der Herabsetzung von Rückstellungen
+214;5490;periodenfremde Erträge
+215;5495;Zahlungseingänge aus abgeschriebenen Forderungen
+216;55;Erträge aus Beteiligungen
+217;5500;Erträge aus Beteiligungen
+218;56;Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens
+219;5600;Erträge aus anderen Finanzanlagen
+220;57;Zinsen und ähnliche Erträge
+221;5710;Zinserträge und Dividenden
+222;5730;Diskonterträge
+223;5780;Erträge aus Wertpapieren des Umlaufvermögens
+224;5790;Sonstige zinsähnliche Erträge
+225;58;Außerordentliche Erträge
+226;5800;Außerordentliche Erträge
+227;59;n/a
+228;6;Betriebliche Aufwendungen
+229;Materialaufwand;
+230;60;Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren
+231;6000;Aufwendungen für Rohstoffe/ Fertigungsmaterial
+232;6001;Bezugskosten
+233;6002;Nachlässe
+234;6010;Aufwendungen für Vorprodukte/ Fremdbauteile
+235;6011;Bezugskosten
+236;6012;Nachlässe
+237;6020;Aufwendungen für Hilfsstoffe
+238;6021;Bezugskosten
+239;6022;Nachlässe
+240;6030;Betriebsstoffe / Verbrauchswerkzeuge
+241;6031;Bezugskosten
+242;6032;Nachlässe
+243;6040;Aufwendungen für Verpackungsmaterial
+244;6050;Aufwendungen für Energie und Treibstoffe
+245;6060;Aufwendungen für Reparaturmaterial
+246;6070;Aufwendungen für sonstiges Material
+247;6080;Aufwendungen für Waren
+248;61;Aufwendungen für bezogene Leistungen
+249;6100;Fremdleistungen für Erzeugnisse und andere Umsatzleistungen
+250;6140;Ausgangsfrachten und Fremdlager (inkl. Versicherung und anderer Nebenkosten)
+251;6150;Vertriebsprovisionen
+252;6160;Fremdinstandhaltung
+253;6170;Sonstige Aufwendungen für bezogene Leistungen Personalaufwand
+254;62;Löhne
+255;6200;Löhne für geleistete Arbeitszeit einschließlich tariflicher, vertraglicher oder
+256;arbeitsbedingter;Zulagen
+257;6210;Löhne für andere Zeiten (Urlaub, Feiertag, Krankheit, Urlaubs- und Weihnachtsgeld)
+258;6220;Sonstige tarifliche oder vertragliche Aufwendungen für Lohnempfänger
+259;6230;Freiwillige Zuwendungen
+260;6250;Sachbezüge
+261;6260;Vergütungen an gewerbliche Auszubildende
+262;63;Gehälter
+263;6300;Gehälter einschließlich tariflicher, vertraglicher oder arbeitsbedingter Zulagen
+264;6310;Gehälter für andere Zeiten (Urlaub, Feiertag, Krankheit, Urlaubs- und Weihnachtsgeld)
+265;6320;Sonstige tarifliche und vertragliche Aufwendungen
+266;6330;Freiwillige Zuwendungen
+267;6350;Sachbezüge
+268;6360;Vergütungen an gewerbliche Auszubildende
+269;64;Soziale Abgaben und Aufwendungen für Altersversorgung
+270;6400;Arbeitgeberanteil zur Sozialversicherung (Lohnbereich)
+271;6410;Arbeitgeberanteil zur Sozialversicherung (Gehaltsbereich)
+272;6420;Beiträge zur Berufsgenossenschaft
+273;6440;Aufwendungen für Altersversorgung
+274;6490;Aufwendungen für Unterstützung
+275;6495;Sonstige soziale Aufwendungen
+276;65;Abschreibungen auf Anlagevermögen
+277;6510;Abschreibung auf immaterielle Vermögensgegenstände des Anlagevermögens
+278;6520;Abschreibungen auf Sachanlagen
+279;6540;Abschreibung auf Sammelposten geringwertige Wirtschaftsgüter
+280;6541;Abschreibung auf geringwertige Wirtschaftsgüter
+281;6550;Außerplanmäßige Abschreibungen auf Sachanlagen
+282;6570;Unüblich hohe Abschreibungen auf Umlaufvermögen
+283;Sonstige;betriebliche Aufwendungen
+284;66;Sonstige Personalaufwendungen
+285;6600;Aufwendungen für Personaleinstellung
+286;6610;Aufwendungen für übernommene Fahrtkosten
+287;6620;Aufwendungen für Werksarzt und Arbeitssicherheit
+288;6630;Personenbezogene Versicherungen
+289;6640;Aufwendungen für Fort- und Weiterbildung
+290;6650;Aufwendungen für Dienstjubiläen
+291;6660;Aufwendungen für Belegschaftsveranstaltungen
+292;6670;Aufwendungen für Werksküche und Sozialeinrichtungen
+293;6680;Ausgleichsabgabe nach dem Schwerbehindertengesetz
+294;6690;Übrige sonstige Personalaufwendungen
+295;67;Aufwendungen für die Inanspruchnahme von Rechten und Diensten
+296;6700;Mieten, Pachten
+297;6710;Leasing
+298;6720;Lizenzen und Konzessionen
+299;6730;Gebühren
+300;6750;Kosten des Geldverkehrs
+301;6760;Provisionsaufwendungen (außer Vertriebsprovisionen)
+302;6770;Rechts- und Beratungskosten
+303;68;Aufwendungen für Kommunikation (Dokumentation, Information, Reisen, Werbung)
+304;6800;Büromaterial
+305;6810;Zeitungen und Fachliteratur
+306;6820;Post- und Kommunikationsgebühren
+307;6830;Kosten der Telekommunikation
+308;6850;Reisekosten
+309;6860;Bewirtung und Repräsentation
+310;6870;Werbung
+311;6880;Spenden (nur Kapitalgesellschaften)
+312;69;Aufwendungen für Beiträge und Sonstiges sowie Wertkorrekturen und periodenfremde Aufwendungen
+313;6900;Versicherungsbeiträge
+314;6920;Beiträge zu Wirtschaftsverbänden und Berufsvertretungen
+315;6930;Verluste aus Schadensfällen
+316;6940;Sonstige Aufwendungen
+317;6950;Abschreibungen auf Forderungen
+318;6951;Abschreibung auf Forderungen wegen Uneinbringlichkeit
+319;6952;Einstellung in Einzelwertberichtigungen
+320;6953;Einstellung in Pauschalwertberichtigungen
+321;6960;Verluste aus dem Abgang von Vermögensgegenständen (einschließlich
+322;Kassenfehlbetrag);
+323;6979;Anlagenabgänge
+324;6980;Zuführung zu Rückstellungen für Gewährleistungen
+325;6990;Periodenfremde Aufwendungen
+326;7;Betriebliche und weitere Aufwendungen
+327;70;Betriebliche Steuern
+328;7010;Vermögenssteuer (nur bei Kapitalgesellschaften)
+329;7020;Grundsteuer
+330;7021;Grundsteuer (Vorjahr)
+331;7030;Kraftfahrzeugsteuer
+332;7031;Kraftfahrzeugsteuer (Vorjahr)
+333;7032;Steuerrückerstattung für Kraftfahrzeugsteuer (Vorjahr)
+334;7070;Ausfuhrzölle
+335;7080;Ausfuhrsteuern
+336;7090;Sonstige betriebliche Steuern
+337;71;n/a
+338;72;n/a
+339;73;n/a
+340;74;Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens und
+341;Verluste;aus entsprechenden Abgängen
+342;7400;Abschreibungen auf Finanzanlagen
+343;7420;Abschreibungen auf Wertpapiere des Umlaufvermögens
+344;7450;Verluste aus dem Abgang von Finanzanlagen
+345;7460;Verluste aus dem Abgang von Wertpapieren des Umlaufvermögens
+346;75;Zinsen und ähnliche Aufwendungen
+347;7510;Zinsaufwendungen
+348;7530;Diskontaufwendungen
+349;7590;Sonstige zinsähnliche Aufwendungen (z. B. Abschreibung auf aktiviertes Disagio)
+350;76;Außerordentliche Aufwendungen
+351;7600;Außerordentliche Aufwendungen
+352;77;Steuern vom Einkommen und Ertrag
+353;7700;Gewerbeertragsteuer
+354;7701;Gewerbeertragsteuer (Vorjahr)
+355;7702;Steuerrückerstattung für Gewerbeertragsteuer (Vorjahr)
+356;7710;Körperschaftsteuer (bei Kapitalgesellschaften)
+357;7720;Kapitalertragssteuer (bei Kapitalgesellschaften)
+358;78;Diverse Aufwendungen
+359;7800;Diverse Aufwendungen
+360;79;n/a
+361;8;Ergebnisrechnungen
+362;80;Eröffnung / Abschluss
+363;8000;Eröffnungsbilanzkonto
+364;8010;Schlussbilanzkonto
+365;8020;GuV-Konto Gesamtkostenverfahren
+366;8030;GuV-Konto Umsatzkostenverfahren
+367;8050;Saldenvorträge (Sammelkonto)
+368;81;Herstellungskosten
+369;82;Vertriebskosten
+370;83;Allgemeine Verwaltungskosten
+371;84;Sonstige betriebliche Aufwendungen
+372;85;Korrekturkonten zu den Erträgen der Kontenklasse 5
+373;86;Korrekturkonten zu den Aufwendungen der Kontenklasse 6
+374;87;Korrekturkonten zu den Aufwendungen der Kontenklasse 7
+375;88;Kurzfristige Erfolgsrechnung (KER)
+376;8800;Gesamtkostenverfahren
+377;8810;Umsatzkostenverfahren
+378;89;Innerjährige Rechnungsabgrenzung
+379;8900;Aktive Rechnungsabgrenzung
+380;9;Kosten- und Leistungsrechnung
+381;90;Unternehmensbezogene Abgrenzungen (neutrale Aufwendungen und Erträge)
+382;91;Kostenrechnerische Korrekturen
+383;92;Kostenarten und Leistungsarten
+384;93;Kostenstellen
+385;94;Kostenträger
+386;95;Fertige Erzeugnisse
+387;96;Interne Lieferungen und Leistungen sowie deren Kosten
+388;97;Umsatzkosten
+389;98;Umsatzleistungen
+390;99;Ergebnisausweise
