@@ -16,8 +16,10 @@
  */
 
 /**
- * TODO Writing PSR* compliant and SPL using auto loader with
+ * @TODO Writing PSR* compliant and SPL using auto loader with
  * namespaces, sauce and hot
+
+  @TODO Writing class for  registering namespaces by path resources 
  */
 
 // chdir(dirname(__DIR__));
@@ -25,6 +27,6 @@ spl_autoload_register(function ($className) {
     $parts = explode('\\', $className);
     // @TODO Check for valid path
 
-    require_once str_replace('\\', '/', $className) . '.php';
+    require_once 'src/' . str_replace('\\', '/', $className) . '.php';
 });
 
