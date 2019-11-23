@@ -20,19 +20,33 @@
  * @version 0.0.1
  * @since 2019-11-21
  */
-
-
 use PHPUnit\Framework\TestCase;
 
 class ModelTest extends TestCase
 {
 
- public function testAccountName()
- {
-     $this->assertTrue(2*2 === 4);
-     $this->assertFalse('Foo' === 'BAr');
-     $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model();
-     $this->assertSame($foo->getAccountName('2600'), 'Vorsteuer');
- }
+    // And now some stupid tests, to test, PHPUnit is working ;-)
+    /**
+     * Testing name of account n° 2600
+     */
+    public function testAccountNameVorsteuer()
+    {
+        $this->assertTrue(2 * 2 === 4);
+        $this->assertFalse('Foo' === 'BAr');
+        $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model();
+        $this->assertSame($foo->getAccountName('2600'), 'Vorsteuer');
+    }
+
+    // And now some stupid tests, to test, PHPUnit is working ;-)
+    /**
+     * Testing name of account n° 4800
+     */
+    public function testAccountNameUmsatzsteuer()
+    {
+        $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model();
+        $this->assertSame($foo->getAccountName('4800'), 'Umsatzsteuer');
+    }
+
+
 }
 
