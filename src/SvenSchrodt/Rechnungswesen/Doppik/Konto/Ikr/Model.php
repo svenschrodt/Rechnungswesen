@@ -2,7 +2,6 @@
 /**
  * SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model
  * 
- * 
  * Model chart of accounts of German IKR ("Industriekontenrahmen")
  * 
  * 
@@ -23,16 +22,18 @@
  */
 namespace SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr;
 
-final class Model
+use SvenSchrodt;
+
+final class Model extends SvenSchrodt\Rechnungswesen\Doppik\Konto\AbstractModel
 {
 
     /**
      * Array containing account information (account no and label)
      * 
-     * 
+     * @TODO Add comments for different types of accounts 
      * @var array
      */
-    private $konto = [
+    protected $konto = [
         
         // Aktiva
         '0000' => 'Ausstehende Einlagen',
@@ -309,24 +310,7 @@ final class Model
         '8900' => 'Aktive Rechnungsabgrenzung'
     ];
     
-    /**
-     * Getting name for account by account number
-     * 
-     * 
-     * @param string $no
-     * @return NULL|string
-     */
-    public function getAccountName(string $no)
-    {
-        
-        //@TODO Validation for account no [4 digits as string || int]
-        return (isset($this->konto[$no])) ? $this->konto[$no] : null;
-    }
     
-    public function getAccountType($no)
-    {
-        // returning 'Aktiva', 'Passiva'
-    }
     
 }
 
