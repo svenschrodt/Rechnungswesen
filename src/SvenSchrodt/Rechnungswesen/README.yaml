@@ -1,0 +1,6 @@
+# Rechnungswesen
+Collection of classes representing elements of German accounting system:
+     - Doppik: double-entry accounting
+     - Klr: cost accounting 
+     - Controlling: controlling
+

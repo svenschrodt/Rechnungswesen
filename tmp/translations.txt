@@ -26,3 +26,41 @@ der Saldo  Pl.: die Saldos/die Salden/die Saldi
 account balance [FINAN.]	
 der Saldo  Pl.: die Saldos/die Salden/die Saldi   [Bankwesen]
 		primary fiscal balance [WIRTSCH.]		
+
+	
+cost account	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+cost accounting [FINAN.]	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+costing [FINAN.]	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+cost calculation [TECH.]	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+accounting [FINAN.]	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+bill of charges [FINAN.]	
+die Kostenrechnung  Pl.: die Kostenrechnungen
+	
+comparative cost system		
+vergleichende Kostenrechnung
+		standard cost accounting lock		
+Plansperre Kostenrechn
+
+
+Substantive
+	
+double-entry accounting [FINAN.]		
+doppelte Buchführung
+	
+double entry bookkeeping [FINAN.]		
+doppelte Buchführung
+	
+double-entry bookkeeping [FINAN.]		
+doppelte Buchführung
+
+
