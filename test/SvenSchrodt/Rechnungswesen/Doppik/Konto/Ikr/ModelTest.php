@@ -47,6 +47,24 @@ class ModelTest extends TestCase
         $this->assertSame($foo->getAccountName('4800'), 'Umsatzsteuer');
     }
 
-
+    /**
+     * Testing name of account n° 4800
+     */
+    public function testAccountTypeDummy()
+    {
+        $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model();
+        $this->assertTrue($foo->getAccountType('4800') === 'n/a');
+    }
+    /**
+     *  
+     */
+    public function testAccountList()
+    {
+        $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto\Ikr\Model();
+        $barList = $foo->getAccountList(); 
+        $this->assertTrue(is_array($barList));
+        $this->assertTrue(count($barList)>0);
+    }
+    
 }
 

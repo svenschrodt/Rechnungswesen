@@ -63,4 +63,52 @@ doppelte Buchführung
 double-entry bookkeeping [FINAN.]		
 doppelte Buchführung
 
+	
+debtor side [FINAN.]	
+das Soll  Pl.: die Soll/die Solls
+	
+liabilities side [FINAN.]	
+das Soll  Pl.: die Soll/die Solls
 
+
+	
+assets  Pl. [FINAN.]	
+das Haben  kein Pl.
+	
+credit [FINAN.]	
+das Haben  kein Pl.
+	
+credits  Pl. [FINAN.]	
+das Haben  kein Pl.   [Bankwesen]
+	
+belongings plural noun	
+die Habe  Pl.: die Haben
+	
+possession	
+die Habe  Pl.: die Haben
+	
+chattels  Pl. [JURA]	
+die Habe  Pl.: die Haben
+	
+effects plural noun   - personal belongings	
+die Habe  Pl.: die Haben [form.]
+	
+debit and credit [FINAN.]		
+Soll und Haben   [Bankwesen]
+	
+credit clearing entry [FINAN.]		
+Ausgleichsbuchung im Haben   [Bankwesen]
+	
+credit spread [FINAN.]		
+der Haben-Spread
+	
+credit balance [FINAN.]		
+der Haben-Saldo
+	
+credit amount [FINAN.]		
+der Haben-Betrag   [Bankwesen]
+	
+credits indicator [FINAN.]		
+das Haben-Kennzeichen
+		movable belongings		
+bewegliche Habe

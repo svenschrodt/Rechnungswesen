@@ -28,29 +28,40 @@ abstract class AbstractModel
 
     /**
      * Array containing account information (account no and label)
-     * 
+     *
      * @var array
      */
     protected $konto = array();
-    
+
     /**
      * Getting name for account by account number
-     * 
-     * 
+     *
      * @param string $no
      * @return NULL|string
      */
-    public function getAccountName(string $no)
+    public function getAccountName(string $no): string
     {
-        
-        //@TODO Validation for account no [4 digits as string || int]
+
+        // @TODO Validation for account no [4 digits as string || int]
         return (isset($this->konto[$no])) ? $this->konto[$no] : null;
     }
-    
-    public function getAccountType($no)
+
+    /**
+     * Getting type of account
+     * - Dummy !
+     *
+     * @param string $no
+     * @return string
+     */
+    public function getAccountType($no): string
     {
         // returning 'Aktiva', 'Passiva'
+        return 'n/a';
     }
-    
+
+    public function getAccountList(): array
+    {
+        return $this->konto;
+    }
 }
 

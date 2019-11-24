@@ -1,0 +1,9 @@
+git rm SvenSchrodt/Rechnungswesen/Doppik/Konto/Ikr/Model.php
+git rm SvenSchrodt/Rechnungswesen/Doppik/Konto/KontoInterface.php
+git rm SvenSchrodt/Rechnungswesen/Foo
+git rm  src/SvenSchrodt/Rechnungswesen/Doppik/Konto/Ikr/Model.php
+git rm src/SvenSchrodt/Rechnungswesen/Foo
+git rm  src/SvenSchrodt/Rechnungswesen/Foo.php
+git rm src/SvenSchrodt/Rechnungswesen/newfile.php
+git add  test/SvenSchrodt/Rechnungswesen/Doppik/Konto/Ikr/ModelTest.php
+
