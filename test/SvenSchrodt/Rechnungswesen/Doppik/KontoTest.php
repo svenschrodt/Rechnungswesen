@@ -22,7 +22,7 @@ class KontoTest extends TestCase
     public function testAccountList()
     {
         $foo = new \SvenSchrodt\Rechnungswesen\Doppik\Konto('2600');
-        print_r($foo);
+//         print_r($foo);
         $this->assertTRue(is_object($foo));
     }
     
