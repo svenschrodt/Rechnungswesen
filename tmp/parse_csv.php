@@ -1,10 +1,10 @@
-<?php 
+<?php declare(strict_types=1); 
 //Edit Sven 2019-11-14
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 ?>
-<pre><?php 
+<pre><?php declare(strict_types=1); 
 $id= 1;
 $output = '';
 $data = file('ikr.csv');
